@@ -1,0 +1,2 @@
+# Bot
+Binance automatic trader
